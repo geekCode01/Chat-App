@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">Chat groups</string>
+    <string-array name="menu">
+        <item>Profile</item>
+        <item>Group 1</item>
+        <item>Group 2</item>
+        <item>Group 3</item>
+        <item>One to one chats</item>
+        <item>Signout</item>
+    </string-array>
+    <string-array name="GenderList">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="languages">
+        <item>AFRIKAANS</item>
+        <item>ALBANIAN</item>
+        <item>ARABIC</item>
+        <item>BELARUSIAN</item>
+        <item>BENGALI</item>
+        <item>BULGARIAN</item>
+        <item>CATALAN</item>
+        <item>CHINESE</item>
+        <item>CROATIAN</item>
+        <item>CZECH</item>
+        <item>DANISH</item>
+        <item>DUTCH</item>
+        <item>ENGLISH</item>
+        <item>ESPERANTO</item>
+        <item>ESTONIAN</item>
+        <item>FINNISH</item>
+        <item>FRENCH</item>
+        <item>GALICIAN</item>
+        <item>GEORGIAN</item>
+        <item>GERMAN</item>
+        <item>GREEK</item>
+        <item>GUJARATI</item>
+        <item>HAITIAN CREOLE</item>
+        <item>HEBREW</item>
+        <item>HINDI</item>
+        <item>HUNGARIAN</item>
+        <item>ICELANDIC</item>
+        <item>INDONESIAN</item>
+        <item>IRISH</item>
+        <item>ITALIAN</item>
+        <item>JAPANESE</item>
+        <item>KANNADA</item>
+        <item>KOREAN</item>
+        <item>LATVIAN</item>
+        <item>LITHUANIAN</item>
+        <item>MACEDONIAN</item>
+        <item>MALAY</item>
+        <item>MALTESE</item>
+        <item>MARATHI</item>
+        <item>NORWEGIAN</item>
+        <item>PERSIAN</item>
+        <item>POLISH</item>
+        <item>PORTUGUESE</item>
+        <item>ROMANIAN</item>
+        <item>RUSSIAN</item>
+        <item>SLOVAK</item>
+        <item>SLOVENIAN</item>
+        <item>SPANISH</item>
+        <item>SWAHILI</item>
+        <item>SWEDISH</item>
+        <item>TAGALOG</item>
+        <item>TAMIL</item>
+        <item>TELUGU</item>
+        <item>THAI</item>
+        <item>TURKISH</item>
+        <item>UKRAINIAN</item>
+        <item>URDU</item>
+        <item>VIETNAMESE</item>
+        <item>WELSH</item>
+    </string-array>
+    <string-array name="lang">
+        <item>af</item>
+        <item>sq</item>
+        <item>ar</item>
+        <item>be</item>
+        <item>bn</item>
+        <item>bg</item>
+        <item>ca</item>
+        <item>zh</item>
+        <item>hr</item>
+        <item>cs</item>
+        <item>da</item>
+        <item>nl</item>
+        <item>en</item>
+        <item>eo</item>
+        <item>et</item>
+        <item>fi</item>
+        <item>fr</item>
+        <item>gl</item>
+        <item>ka</item>
+        <item>de</item>
+        <item>el</item>
+        <item>gu</item>
+        <item>ht</item>
+        <item>he</item>
+        <item>hi</item>
+        <item>hu</item>
+        <item>is</item>
+        <item>id</item>
+        <item>ga</item>
+        <item>it</item>
+        <item>ja</item>
+        <item>kn</item>
+        <item>ko</item>
+        <item>lv</item>
+        <item>lt</item>
+        <item>mk</item>
+        <item>ms</item>
+        <item>mt</item>
+        <item>mr</item>
+        <item>no</item>
+        <item>fa</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>ro</item>
+        <item>ru</item>
+        <item>sk</item>
+        <item>sl</item>
+        <item>es</item>
+        <item>sw</item>
+        <item>sv</item>
+        <item>tl</item>
+        <item>ta</item>
+        <item>te</item>
+        <item>th</item>
+        <item>tr</item>
+        <item>uk</item>
+        <item>ur</item>
+        <item>vi</item>
+        <item>cy</item>
+    </string-array>
+    <string name="loading" translatable="false">Loading…</string>
+    <dimen name="title_bottom_margin">16dp</dimen>
+    <string name="google_title_text" translatable="false">Google Sign In</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="UserName">User name</string>
+    <string name="UserAge">User age</string>
+    <string name="UserGender">User gender</string>
+    <string name="Save">Save</string>
+    <string name="Edit">Edit</string>
+    <string name="IncorrectAge">Your age should be between 18 and 99</string>
+    <string name="EnterAllData">Please enter all data</string>
+    <string name="dataSaved">Data is saved successfully</string>
+    <string name="MsgHere">type your message here ....</string>
+    <string name="ErrorSave">One message not saved successfully</string>
+    <string name="TranslationSettings">Translation settings</string>
+    <string name="Translate">Translate: </string>
+    <string name="EnableTranslator">Enable translator</string>
+    <string name="From">From</string>
+    <string name="To">To</string>
+    <string name="Back">Back</string>
+</resources>
