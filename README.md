@@ -1,6 +1,6 @@
 # Chat-App
 
-## Build a group and one to one chat with firebase realtime database and SQLite
+## 👋Build a group and one to one chat with firebase realtime database and SQLite
 
 1. Create a new android studio project using java language
 2. Create a new firebase project to store all chat messages
